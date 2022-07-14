@@ -1,0 +1,109 @@
+html {
+    
+        font-family: 'Roboto';
+        color: RGB(85,81,82);
+            
+}
+
+h1, body, html, main {
+    margin: 0;
+}
+
+
+
+#header {
+
+    
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.486);
+    height: 400px;
+    width: 100%;
+    margin-bottom: 35px;
+    margin-top: 0px;
+    line-height: 350px;
+    color: azure;
+    font-size: 350%;
+
+    background-image: url("../images/apple-pie.jpg"); 
+
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    
+    
+    
+
+}
+
+.separador {
+
+    width: 80%;
+    margin-bottom: 35px;
+    margin-top: 35px;
+
+}
+
+
+h2 {
+
+    
+    margin-right: 150px;
+    margin-left: 80px;
+    font-size: 20px;
+
+}
+
+
+#intro {
+
+  
+    margin-right: 80px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: large;
+
+}
+
+
+#ingredients {
+
+    margin-top: 3px;
+    margin-bottom: 33px;
+    margin-right: 150px;
+    margin-left: 60px;
+    font-size: 95%;
+
+}
+
+#directions {
+
+    margin-top: 3px;
+    margin-right: 150px;
+    margin-left: 60px;
+    font-size: 95%;
+
+}
+
+
+#cooking-info {
+
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+
+}
+
+#recipe-info {
+
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+
+}
